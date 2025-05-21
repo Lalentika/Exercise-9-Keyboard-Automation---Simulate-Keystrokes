@@ -1,7 +1,7 @@
 # Exercise-9-Keyboard-Automation---Simulate-Keystrokes
 ~~~
-Name : M.JohnPall  
-Reg.No : 212224040140  
+Name : LALENTIKA TWISHA M
+Reg.No : 212224220052
 ~~~
 
 ## Aim
